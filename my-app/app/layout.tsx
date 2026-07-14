@@ -34,9 +34,6 @@ export default function RootLayout({
             mouseInteraction
             mouseStrength={0.5}
             mouseRadius={1}
-            color1="#A6C8FF"
-            color2="#5227FF"
-            color3="#FF9FFC"
           />
         </div>
 
